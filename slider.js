@@ -1,10 +1,10 @@
 // array of images
 const images = [
-    'img/a.jpg',    // index 0 --> images[0]
-    'img/b.jpg',    // index 1 --> images[1]
-    'img/c.jpg',    // index 2 --> images[2]
-    'img/d.jpg',    // index 3 --> images[3]
-    'img/e.jpg'     // index 4 --> images[4]
+    'a.jpg',    // index 0 --> images[0]
+    'b.jpg',    // index 1 --> images[1]
+    'c.jpg',    // index 2 --> images[2]
+    'd.jpg',    // index 3 --> images[3]
+    'e.jpg'     // index 4 --> images[4]
 ];
 const firstImage = 0;
 const lastImage = images.length -1;
